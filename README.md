@@ -1,2 +1,2 @@
 # MyRecepie
-A front end mock up of a Recepie website
+A front end page displaying a My Recipe website. More back end, PhP, and pages will be comming soon!
